@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yahdif</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_my_account">MyAccount</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_lingkaran">Lingkaran</string>
+    <string name="title_activity_hitung_segitiga">HitungSegitiga</string>
+    <string name="title_activity_hitung_persegi_panjang">HitungPersegiPanjang</string>
+
+</resources>
